@@ -1,0 +1,477 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "What are you looking for?"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Awesome MPS"
+    },
+    {
+      "description": "Plugins that improve MPS.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MPS Extensions",
+          "description": "Various extensions to simplify language development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2026-08-10T19:41:34Z",
+            "owner": "JetBrains",
+            "repo": "MPS-extensions",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ingrid",
+          "description": "Ingrid is a plugin for JetBrains MPS allowing import of ANTLRv4 grammars and create an MPS language out of it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-08-15T19:12:09Z",
+            "owner": "premun",
+            "repo": "ingrid",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mps-code-reviewer",
+          "description": "Code Review for JetBrains MPS providing integration with Bitbucket",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-08T07:25:33Z",
+            "owner": "Workday",
+            "repo": "mps-code-reviewer",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPS gradle plugin",
+          "description": "A Gradle plugin to build & test langauges and to support various tasks related to custom RCP packaging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T21:08:32Z",
+            "owner": "mbeddr",
+            "repo": "mps-gradle-plugin",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Editor2PDF",
+          "description": "Serialises editor into PDF files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-05-24T18:28:23Z",
+            "owner": "CampagneLaboratory",
+            "repo": "Editor2PDF",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Durchblick",
+          "description": "Simplified editors to increase readability of generators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2024-08-06T09:37:42Z",
+            "owner": "coolya",
+            "repo": "Durchblick",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPS-QA",
+          "description": "This repository contains quality assurance tooling for Jetbrains' MPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2026-07-15T15:57:02Z",
+            "owner": "mbeddr",
+            "repo": "mps-qa",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skadi gist",
+          "description": "Share MPS code snippets via the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-03-09T11:11:36Z",
+            "owner": "skadi-cloud",
+            "repo": "gist",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stubs Generator",
+          "description": "Stubs Generator is a plugin to Jetbrains MPS which allows easy creation of generators of library stubs for custom MPS languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2023-04-05T13:01:02Z",
+            "owner": "wirthma",
+            "repo": "StubsGenerator",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "digitalember.extensions",
+          "description": "MPS baseLanguage editor extensions for better readability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-31T18:50:38Z",
+            "owner": "digital-ember",
+            "repo": "digitalember.extensions",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Built with MPS"
+    },
+    {
+      "description": "Complete IDEs built with MPS.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mbeddr",
+          "description": "An extensible C implementation in MPS to support embedded software development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2026-08-12T12:55:51Z",
+            "owner": "mbeddr",
+            "repo": "mbeddr.core",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FBME",
+          "description": "FBME (Function Blocks Modelling Environment) is an IDE for IEC 61499 standard built on top of JetBrains MPS language workbench.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2026-05-13T17:14:50Z",
+            "owner": "JetBrains",
+            "repo": "fbme",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PeoPL",
+          "description": "A full IDE build upon MPS to manage Software Product Lines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-05-20T20:54:52Z",
+            "owner": "benbehringer",
+            "repo": "peopl",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "IDEs"
+    },
+    {
+      "description": "Individual languages.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iets3",
+          "description": "Base language for system modelling and specification including basics abstractions for components, expression, variability, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2026-08-12T14:40:23Z",
+            "owner": "IETS3",
+            "repo": "iets3.opensource",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ecmascript4mps",
+          "description": "ECMAScript language implementation for JetBrains MPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-03T14:38:50Z",
+            "owner": "mar9000",
+            "repo": "ecmascript4mps",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CsBaseLanguage",
+          "description": "An implementation of the C# 5.0 language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2024-11-05T21:03:30Z",
+            "owner": "vaclav",
+            "repo": "mpscs",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voice Menu",
+          "description": "A voice menu language and a Java simulator built using JetBrains MPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2026-06-23T13:53:36Z",
+            "owner": "vaclav",
+            "repo": "voicemenu",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ANTLR_MPS",
+          "description": "An ANTLR language for MPS, and the ToMPS language to help create MPS languages and ANTRL visitors from an ANTLR 4 grammar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-09-06T19:06:22Z",
+            "owner": "CampagneLaboratory",
+            "repo": "ANTLR_MPS",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DclareForMPS",
+          "description": "Support for the dclare engine in MPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2026-08-10T05:02:53Z",
+            "owner": "ModelingValueGroup",
+            "repo": "dclareForMPS",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPS JSON Language",
+          "description": "A JSON implementation for MPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-05-03T11:34:26Z",
+            "owner": "nkoester",
+            "repo": "mps-json",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web languages",
+          "description": "a collection of Web-centric, partial language implementations: JSON, JSON Schema, WSDL, XSD, SVG, CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2026-05-21T01:19:03Z",
+            "owner": "dslmeinte",
+            "repo": "mps-open-source",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FormatsDSL",
+          "description": "A DSL to describe formats and generate loaders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-29T14:55:57Z",
+            "owner": "Strumenta",
+            "repo": "FormatsDSL",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mbeddr.cpp",
+          "description": "C++ language implementation prototype for JetBrains MPS, built as an extension on mbeddr.core (C language).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2026-07-02T08:38:48Z",
+            "owner": "DSLFoundry",
+            "repo": "mbeddr.cpp",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Physics",
+          "description": "A physical simulation description language built with MPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2024-03-22T11:05:47Z",
+            "owner": "vaclav",
+            "repo": "Physics",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D-Flat",
+          "description": "C# language implementation prototype for JetBrains MPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JetBrains MPS",
+            "last_commit": "2024-04-18T14:00:25Z",
+            "owner": "DSLFoundry",
+            "repo": "mps-dflat",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlantUML",
+          "description": "Language for PlantUML models, also useful to generate PlantUML diagrams from custom DSL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-06-22T20:59:21Z",
+            "owner": "vjramirez",
+            "repo": "PlantUML",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Languages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MPSServer",
+          "description": "A tool to make MPS accessible remotely.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-07T10:59:46Z",
+            "owner": "Strumenta",
+            "repo": "MPSServer",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebEditKit",
+          "description": "This is a framework for creating projectional editors which interact with JetBrains MPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-29T14:53:57Z",
+            "owner": "Strumenta",
+            "repo": "webeditkit",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mpsZooKeeper.sh",
+          "description": "Helper script to generate an isolated configuration prefix for isolated MPS instances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-08-10T09:47:56Z",
+            "owner": "nkoester",
+            "repo": "mps-zookeeper",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Other projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning MPS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Research"
+    },
+    {
+      "description": "Your contributions are always welcome! Please take a look at the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:23.264Z",
+    "original_repository": "coolya/mps.rocks",
+    "original_repository_sha": "2b6c11d62b3bc501fd3c879f0affb137678d6ba0",
+    "enhanced_repository": "enhansome/enhansome-mps.rocks",
+    "enhanced_repository_description": null,
+    "title": "Awesome MPS rocks with stars"
+  }
+}
