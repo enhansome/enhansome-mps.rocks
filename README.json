@@ -172,7 +172,7 @@
           "repo_info": {
             "archived": false,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-12T12:55:51Z",
+            "last_commit": "2026-08-13T18:55:22Z",
             "owner": "mbeddr",
             "repo": "mbeddr.core",
             "stars": 233
@@ -467,7 +467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:46:34.966Z",
+    "last_updated": "2026-08-14T09:43:33.354Z",
     "original_repository": "coolya/mps.rocks",
     "original_repository_sha": "2b6c11d62b3bc501fd3c879f0affb137678d6ba0",
     "enhanced_repository": "enhansome/enhansome-mps.rocks",
