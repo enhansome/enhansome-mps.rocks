@@ -172,7 +172,7 @@
           "repo_info": {
             "archived": false,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-13T18:55:22Z",
+            "last_commit": "2026-08-16T12:01:03Z",
             "owner": "mbeddr",
             "repo": "mbeddr.core",
             "stars": 233
@@ -220,7 +220,7 @@
           "repo_info": {
             "archived": false,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-12T14:40:23Z",
+            "last_commit": "2026-08-17T06:03:55Z",
             "owner": "IETS3",
             "repo": "iets3.opensource",
             "stars": 53
@@ -467,7 +467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:02:53.070Z",
+    "last_updated": "2026-08-17T09:23:43.590Z",
     "original_repository": "coolya/mps.rocks",
     "original_repository_sha": "2b6c11d62b3bc501fd3c879f0affb137678d6ba0",
     "enhanced_repository": "enhansome/enhansome-mps.rocks",
