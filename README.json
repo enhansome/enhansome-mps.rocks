@@ -21,7 +21,7 @@
           "repo_info": {
             "archived": false,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-16T08:46:38Z",
+            "last_commit": "2026-08-18T08:25:08Z",
             "owner": "JetBrains",
             "repo": "MPS-extensions",
             "stars": 88
@@ -172,7 +172,7 @@
           "repo_info": {
             "archived": false,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-16T12:01:03Z",
+            "last_commit": "2026-08-18T09:02:41Z",
             "owner": "mbeddr",
             "repo": "mbeddr.core",
             "stars": 233
@@ -467,7 +467,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:23:43.590Z",
+    "last_updated": "2026-08-18T09:15:25.415Z",
     "original_repository": "coolya/mps.rocks",
     "original_repository_sha": "2b6c11d62b3bc501fd3c879f0affb137678d6ba0",
     "enhanced_repository": "enhansome/enhansome-mps.rocks",
