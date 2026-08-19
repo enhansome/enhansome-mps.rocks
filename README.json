@@ -364,7 +364,7 @@
                 "archived": false,
                 "id": 228832907,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-19T07:56:05Z",
+                "last_commit": "2026-08-19T10:02:37Z",
                 "owner": "DSLFoundry",
                 "repo": "mbeddr.cpp",
                 "stars": 5
@@ -394,7 +394,7 @@
                 "archived": false,
                 "id": 243281936,
                 "language": "JetBrains MPS",
-                "last_commit": "2024-04-18T14:00:25Z",
+                "last_commit": "2026-08-19T11:41:09Z",
                 "owner": "DSLFoundry",
                 "repo": "mps-dflat",
                 "stars": 4
@@ -477,8 +477,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:16:22.052Z",
+    "last_updated": "2026-08-19T12:44:03.716Z",
     "original_repository": "coolya/mps.rocks",
+    "original_repository_id": 128446136,
     "original_repository_sha": "2b6c11d62b3bc501fd3c879f0affb137678d6ba0",
     "enhanced_repository": "enhansome/enhansome-mps.rocks",
     "enhanced_repository_description": null,
