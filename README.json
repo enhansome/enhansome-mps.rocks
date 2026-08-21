@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 109820403,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-20T08:14:43Z",
+                "last_commit": "2026-08-21T03:12:22Z",
                 "owner": "JetBrains",
                 "repo": "MPS-extensions",
                 "stars": 88
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 84947979,
                 "language": "Kotlin",
-                "last_commit": "2026-08-18T11:28:13Z",
+                "last_commit": "2026-08-20T09:24:08Z",
                 "owner": "mbeddr",
                 "repo": "mps-gradle-plugin",
                 "stars": 16
@@ -177,7 +177,7 @@
                 "archived": false,
                 "id": 3208991,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-18T16:35:04Z",
+                "last_commit": "2026-08-20T14:14:41Z",
                 "owner": "mbeddr",
                 "repo": "mbeddr.core",
                 "stars": 233
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:16:43.730Z",
+    "last_updated": "2026-08-21T09:19:21.899Z",
     "original_repository": "coolya/mps.rocks",
     "original_repository_id": 128446136,
     "original_repository_sha": "2b6c11d62b3bc501fd3c879f0affb137678d6ba0",
