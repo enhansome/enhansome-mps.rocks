@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 109820403,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-21T03:12:22Z",
+                "last_commit": "2026-08-22T05:24:44Z",
                 "owner": "JetBrains",
                 "repo": "MPS-extensions",
                 "stars": 88
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:19:21.899Z",
+    "last_updated": "2026-08-22T09:03:20.571Z",
     "original_repository": "coolya/mps.rocks",
     "original_repository_id": 128446136,
     "original_repository_sha": "2b6c11d62b3bc501fd3c879f0affb137678d6ba0",

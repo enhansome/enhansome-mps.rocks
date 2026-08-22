@@ -2,7 +2,7 @@
 
 A curated list of awesome MPS extensions/libraries, software and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 315,226 | 🐛 17 | 🌐 Python | 📅 2026-08-16 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 58,915 | 🐛 7 | 🌐 Rust | 📅 2026-08-20.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 315,428 | 🐛 23 | 🌐 Python | 📅 2026-08-21 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 58,934 | 🐛 7 | 🌐 Rust | 📅 2026-08-20.
 
 ## What are you looking for?
 
@@ -38,7 +38,7 @@ To get stated we suggest to look at the tutorials in the following order:
 
 Plugins that improve MPS.
 
-* [MPS Extensions](https://github.com/JetBrains/MPS-extensions) ⭐ 88 | 🐛 123 | 🌐 JetBrains MPS | 📅 2026-08-21 - Various extensions to simplify language development.
+* [MPS Extensions](https://github.com/JetBrains/MPS-extensions) ⭐ 88 | 🐛 122 | 🌐 JetBrains MPS | 📅 2026-08-22 - Various extensions to simplify language development.
 * [ingrid](https://github.com/premun/ingrid) ⭐ 24 | 🐛 2 | 🌐 Java | 📅 2019-08-15 - Ingrid is a plugin for JetBrains MPS allowing import of ANTLRv4 grammars and create an MPS language out of it.
 * [mps-code-reviewer](https://github.com/Workday/mps-code-reviewer) ⭐ 16 | 🐛 7 | 📅 2023-04-08 - Code Review for JetBrains MPS providing integration with Bitbucket
 * [MPS gradle plugin](https://github.com/mbeddr/mps-gradle-plugin) ⭐ 16 | 🐛 27 | 🌐 Kotlin | 📅 2026-08-20 - A Gradle plugin to build & test langauges and to support various tasks related to custom RCP packaging.
@@ -184,4 +184,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
