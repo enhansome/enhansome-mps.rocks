@@ -177,7 +177,7 @@
                 "archived": false,
                 "id": 3208991,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-23T05:12:49Z",
+                "last_commit": "2026-08-24T01:13:04Z",
                 "owner": "mbeddr",
                 "repo": "mbeddr.core",
                 "stars": 233
@@ -304,7 +304,7 @@
                 "archived": false,
                 "id": 150723842,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-10T05:02:53Z",
+                "last_commit": "2026-08-24T05:02:54Z",
                 "owner": "ModelingValueGroup",
                 "repo": "dclareForMPS",
                 "stars": 21
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:03:38.222Z",
+    "last_updated": "2026-08-24T09:29:41.353Z",
     "original_repository": "coolya/mps.rocks",
     "original_repository_id": 128446136,
     "original_repository_sha": "2b6c11d62b3bc501fd3c879f0affb137678d6ba0",
