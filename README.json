@@ -229,7 +229,7 @@
                 "archived": false,
                 "id": 68794659,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-22T18:43:18Z",
+                "last_commit": "2026-08-24T12:47:19Z",
                 "owner": "IETS3",
                 "repo": "iets3.opensource",
                 "stars": 53
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:29:41.353Z",
+    "last_updated": "2026-08-24T14:45:01.170Z",
     "original_repository": "coolya/mps.rocks",
     "original_repository_id": 128446136,
     "original_repository_sha": "2b6c11d62b3bc501fd3c879f0affb137678d6ba0",
