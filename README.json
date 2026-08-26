@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 109820403,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-24T23:41:09Z",
+                "last_commit": "2026-08-25T21:13:23Z",
                 "owner": "JetBrains",
                 "repo": "MPS-extensions",
                 "stars": 88
@@ -177,7 +177,7 @@
                 "archived": false,
                 "id": 3208991,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-25T09:03:53Z",
+                "last_commit": "2026-08-26T07:48:52Z",
                 "owner": "mbeddr",
                 "repo": "mbeddr.core",
                 "stars": 233
@@ -229,7 +229,7 @@
                 "archived": false,
                 "id": 68794659,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-24T21:23:14Z",
+                "last_commit": "2026-08-26T08:36:26Z",
                 "owner": "IETS3",
                 "repo": "iets3.opensource",
                 "stars": 53
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:19:45.731Z",
+    "last_updated": "2026-08-26T09:24:47.791Z",
     "original_repository": "coolya/mps.rocks",
     "original_repository_id": 128446136,
     "original_repository_sha": "2b6c11d62b3bc501fd3c879f0affb137678d6ba0",
