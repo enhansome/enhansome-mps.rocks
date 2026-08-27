@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 109820403,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-25T21:13:23Z",
+                "last_commit": "2026-08-27T06:01:13Z",
                 "owner": "JetBrains",
                 "repo": "MPS-extensions",
                 "stars": 88
@@ -177,7 +177,7 @@
                 "archived": false,
                 "id": 3208991,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-26T07:48:52Z",
+                "last_commit": "2026-08-27T07:23:17Z",
                 "owner": "mbeddr",
                 "repo": "mbeddr.core",
                 "stars": 233
@@ -229,7 +229,7 @@
                 "archived": false,
                 "id": 68794659,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-26T08:36:26Z",
+                "last_commit": "2026-08-27T05:51:18Z",
                 "owner": "IETS3",
                 "repo": "iets3.opensource",
                 "stars": 53
@@ -304,7 +304,7 @@
                 "archived": false,
                 "id": 150723842,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-24T05:02:54Z",
+                "last_commit": "2026-08-27T05:02:35Z",
                 "owner": "ModelingValueGroup",
                 "repo": "dclareForMPS",
                 "stars": 21
@@ -477,9 +477,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:24:47.791Z",
-    "original_repository": "coolya/mps.rocks",
-    "original_repository_id": 128446136,
+    "last_updated": "2026-08-27T11:54:04.877Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 128446136,
+      "language": "Makefile",
+      "last_commit": "2025-12-12T11:08:34Z",
+      "owner": "coolya",
+      "repo": "mps.rocks",
+      "stars": 67
+    },
     "original_repository_sha": "2b6c11d62b3bc501fd3c879f0affb137678d6ba0",
     "enhanced_repository": "enhansome/enhansome-mps.rocks",
     "enhanced_repository_description": null,
