@@ -2,7 +2,7 @@
 
 A curated list of awesome MPS extensions/libraries, software and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 316,469 | 🐛 15 | 🌐 Python | 📅 2026-08-25 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 58,999 | 🐛 7 | 🌐 Rust | 📅 2026-08-27.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 316,743 | 🐛 18 | 🌐 Python | 📅 2026-08-25 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,028 | 🐛 7 | 🌐 Rust | 📅 2026-08-28.
 
 ## What are you looking for?
 
@@ -38,7 +38,7 @@ To get stated we suggest to look at the tutorials in the following order:
 
 Plugins that improve MPS.
 
-* [MPS Extensions](https://github.com/JetBrains/MPS-extensions) ⭐ 88 | 🐛 125 | 🌐 JetBrains MPS | 📅 2026-08-27 - Various extensions to simplify language development.
+* [MPS Extensions](https://github.com/JetBrains/MPS-extensions) ⭐ 88 | 🐛 125 | 🌐 JetBrains MPS | 📅 2026-08-28 - Various extensions to simplify language development.
 * [ingrid](https://github.com/premun/ingrid) ⭐ 24 | 🐛 2 | 🌐 Java | 📅 2019-08-15 - Ingrid is a plugin for JetBrains MPS allowing import of ANTLRv4 grammars and create an MPS language out of it.
 * [mps-code-reviewer](https://github.com/Workday/mps-code-reviewer) ⭐ 16 | 🐛 7 | 📅 2023-04-08 - Code Review for JetBrains MPS providing integration with Bitbucket
 * [MPS gradle plugin](https://github.com/mbeddr/mps-gradle-plugin) ⭐ 16 | 🐛 27 | 🌐 Kotlin | 📅 2026-08-20 - A Gradle plugin to build & test langauges and to support various tasks related to custom RCP packaging.
@@ -79,7 +79,7 @@ Complete IDEs built with MPS.
 
 Individual languages.
 
-* [iets3](https://github.com/iets3/iets3.opensource) ⭐ 53 | 🐛 133 | 🌐 JetBrains MPS | 📅 2026-08-27 - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
+* [iets3](https://github.com/iets3/iets3.opensource) ⭐ 53 | 🐛 132 | 🌐 JetBrains MPS | 📅 2026-08-28 - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
 * [ecmascript4mps](https://github.com/mar9000/ecmascript4mps) ⭐ 41 | 🐛 1 | 📅 2024-07-03 - ECMAScript language implementation for JetBrains MPS.
 * [CsBaseLanguage](https://github.com/vaclav/mpscs) ⭐ 35 | 🐛 0 | 🌐 JetBrains MPS | 📅 2024-11-05 - An implementation of the C# 5.0 language.
 * [Voice Menu](https://github.com/vaclav/voicemenu) ⭐ 35 | 🐛 6 | 🌐 JetBrains MPS | 📅 2026-06-23 - A voice menu language and a Java simulator built using JetBrains MPS.
@@ -90,7 +90,7 @@ Individual languages.
 * [FormatsDSL](https://github.com/ftomassetti/FormatsDSL) ⭐ 10 | 🐛 17 | 📅 2023-09-29 - A DSL to describe formats and generate loaders.
 * [mbeddr.cpp](https://github.com/DSLFoundry/mbeddr.cpp) ⭐ 5 | 🐛 19 | 🌐 JetBrains MPS | 📅 2026-08-19 - C++ language implementation prototype for JetBrains MPS, built as an extension on mbeddr.core (C language).
 * [Physics](https://github.com/vaclav/Physics) ⭐ 5 | 🐛 5 | 🌐 JetBrains MPS | 📅 2024-03-22 - A physical simulation description language built with MPS.
-* [D-Flat](https://github.com/DSLFoundry/mps-dflat) ⭐ 4 | 🐛 2 | 🌐 JetBrains MPS | 📅 2026-08-19 - C# language implementation prototype for JetBrains MPS.
+* [D-Flat](https://github.com/DSLFoundry/mps-dflat) ⭐ 4 | 🐛 2 | 🌐 JetBrains MPS | 📅 2026-08-28 - C# language implementation prototype for JetBrains MPS.
 * [PlantUML](https://github.com/vjramirez/PlantUML) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2017-06-22 - Language for PlantUML models, also useful to generate PlantUML diagrams from custom DSL.
 
 ### Other projects
@@ -184,4 +184,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

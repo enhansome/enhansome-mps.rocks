@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 109820403,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-27T19:03:16Z",
+                "last_commit": "2026-08-28T13:37:54Z",
                 "owner": "JetBrains",
                 "repo": "MPS-extensions",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "premun",
                 "repo": "ingrid",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "Workday",
                 "repo": "mps-code-reviewer",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "mbeddr",
                 "repo": "mps-gradle-plugin",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "CampagneLaboratory",
                 "repo": "Editor2PDF",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "coolya",
                 "repo": "Durchblick",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "mbeddr",
                 "repo": "mps-qa",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "skadi-cloud",
                 "repo": "gist",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "wirthma",
                 "repo": "StubsGenerator",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "digital-ember",
                 "repo": "digitalember.extensions",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             }
           ],
           "description": "Plugins that improve MPS.",
@@ -181,7 +191,8 @@
                 "owner": "mbeddr",
                 "repo": "mbeddr.core",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "JetBrains",
                 "repo": "fbme",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -211,7 +223,8 @@
                 "owner": "benbehringer",
                 "repo": "peopl",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             }
           ],
           "description": "Complete IDEs built with MPS.",
@@ -229,11 +242,12 @@
                 "archived": false,
                 "id": 68794659,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-27T16:10:24Z",
+                "last_commit": "2026-08-28T17:34:45Z",
                 "owner": "IETS3",
                 "repo": "iets3.opensource",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -248,7 +262,8 @@
                 "owner": "mar9000",
                 "repo": "ecmascript4mps",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -263,7 +278,8 @@
                 "owner": "vaclav",
                 "repo": "mpscs",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -278,7 +294,8 @@
                 "owner": "vaclav",
                 "repo": "voicemenu",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -293,7 +310,8 @@
                 "owner": "CampagneLaboratory",
                 "repo": "ANTLR_MPS",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -308,7 +326,8 @@
                 "owner": "ModelingValueGroup",
                 "repo": "dclareForMPS",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -323,7 +342,8 @@
                 "owner": "nkoester",
                 "repo": "mps-json",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -338,7 +358,8 @@
                 "owner": "dslmeinte",
                 "repo": "mps-open-source",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -353,7 +374,8 @@
                 "owner": "Strumenta",
                 "repo": "FormatsDSL",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -368,7 +390,8 @@
                 "owner": "DSLFoundry",
                 "repo": "mbeddr.cpp",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -383,7 +406,8 @@
                 "owner": "vaclav",
                 "repo": "Physics",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -394,11 +418,12 @@
                 "archived": false,
                 "id": 243281936,
                 "language": "JetBrains MPS",
-                "last_commit": "2026-08-19T11:41:09Z",
+                "last_commit": "2026-08-28T13:48:16Z",
                 "owner": "DSLFoundry",
                 "repo": "mps-dflat",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -413,7 +438,8 @@
                 "owner": "vjramirez",
                 "repo": "PlantUML",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             }
           ],
           "description": "Individual languages.",
@@ -435,7 +461,8 @@
                 "owner": "Strumenta",
                 "repo": "MPSServer",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -450,7 +477,8 @@
                 "owner": "Strumenta",
                 "repo": "webeditkit",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             },
             {
               "node_type": "item",
@@ -465,7 +493,8 @@
                 "owner": "nkoester",
                 "repo": "mps-zookeeper",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
             }
           ],
           "description": null,
@@ -477,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:15:57.469Z",
+    "last_updated": "2026-08-28T20:25:06.756Z",
     "original_repository_info": {
       "archived": false,
       "id": 128446136,
