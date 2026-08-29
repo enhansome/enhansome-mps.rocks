@@ -2,7 +2,7 @@
 
 A curated list of awesome MPS extensions/libraries, software and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 316,813 | 🐛 19 | 🌐 Python | 📅 2026-08-25 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,031 | 🐛 8 | 🌐 Rust | 📅 2026-08-28.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 316,924 | 🐛 18 | 🌐 Python | 📅 2026-08-25 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,039 | 🐛 7 | 🌐 Rust | 📅 2026-08-29.
 
 ## What are you looking for?
 
@@ -84,7 +84,7 @@ Individual languages.
 * [CsBaseLanguage](https://github.com/vaclav/mpscs) ⭐ 35 | 🐛 0 | 🌐 JetBrains MPS | 📅 2024-11-05 - An implementation of the C# 5.0 language.
 * [Voice Menu](https://github.com/vaclav/voicemenu) ⭐ 35 | 🐛 6 | 🌐 JetBrains MPS | 📅 2026-06-23 - A voice menu language and a Java simulator built using JetBrains MPS.
 * [ANTLR\_MPS](https://github.com/CampagneLaboratory/ANTLR_MPS) ⭐ 26 | 🐛 4 | 🌐 Java | 📅 2017-09-06 - An ANTLR language for MPS, and the ToMPS language to help create MPS languages and ANTRL visitors from an ANTLR 4 grammar.
-* [DclareForMPS](https://github.com/ModelingValueGroup/DclareForMPS) ⭐ 21 | 🐛 29 | 🌐 JetBrains MPS | 📅 2026-08-27 - Support for the dclare engine in MPS.
+* [DclareForMPS](https://github.com/ModelingValueGroup/DclareForMPS) ⭐ 21 | 🐛 26 | 🌐 JetBrains MPS | 📅 2026-08-29 - Support for the dclare engine in MPS.
 * [MPS JSON Language](https://github.com/nkoester/mps-json) ⭐ 16 | 🐛 1 | 📅 2018-05-03 - A JSON implementation for MPS.
 * [Web languages](https://github.com/dslmeinte/mps-open-source/tree/master/mps-open-source) ⭐ 13 | 🐛 3 | 🌐 JetBrains MPS | 📅 2026-05-21 - a collection of Web-centric, partial language implementations: JSON, JSON Schema, WSDL, XSD, SVG, CSS.
 * [FormatsDSL](https://github.com/ftomassetti/FormatsDSL) ⭐ 10 | 🐛 17 | 📅 2023-09-29 - A DSL to describe formats and generate loaders.

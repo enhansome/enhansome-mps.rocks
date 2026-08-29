@@ -456,8 +456,8 @@
                 "id": 150723842,
                 "language": "JetBrains MPS",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-08-27T05:02:35Z",
-                "open_issues": 29,
+                "last_commit": "2026-08-29T13:01:12Z",
+                "open_issues": 26,
                 "owner": "ModelingValueGroup",
                 "repo": "dclareForMPS",
                 "stars": 21,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:02:01.156Z",
+    "last_updated": "2026-08-29T14:00:19.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MPS extensions/libraries, software and resources.",
