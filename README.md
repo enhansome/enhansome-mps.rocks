@@ -2,7 +2,7 @@
 
 A curated list of awesome MPS extensions/libraries, software and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 316,924 | 🐛 18 | 🌐 Python | 📅 2026-08-25 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,039 | 🐛 7 | 🌐 Rust | 📅 2026-08-29.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 317,119 | 🐛 18 | 🌐 Python | 📅 2026-08-25 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,059 | 🐛 8 | 🌐 Rust | 📅 2026-08-29.
 
 ## What are you looking for?
 
@@ -88,7 +88,7 @@ Individual languages.
 * [MPS JSON Language](https://github.com/nkoester/mps-json) ⭐ 16 | 🐛 1 | 📅 2018-05-03 - A JSON implementation for MPS.
 * [Web languages](https://github.com/dslmeinte/mps-open-source/tree/master/mps-open-source) ⭐ 13 | 🐛 3 | 🌐 JetBrains MPS | 📅 2026-05-21 - a collection of Web-centric, partial language implementations: JSON, JSON Schema, WSDL, XSD, SVG, CSS.
 * [FormatsDSL](https://github.com/ftomassetti/FormatsDSL) ⭐ 10 | 🐛 17 | 📅 2023-09-29 - A DSL to describe formats and generate loaders.
-* [mbeddr.cpp](https://github.com/DSLFoundry/mbeddr.cpp) ⭐ 5 | 🐛 19 | 🌐 JetBrains MPS | 📅 2026-08-19 - C++ language implementation prototype for JetBrains MPS, built as an extension on mbeddr.core (C language).
+* [mbeddr.cpp](https://github.com/DSLFoundry/mbeddr.cpp) ⭐ 5 | 🐛 20 | 🌐 JetBrains MPS | 📅 2026-08-19 - C++ language implementation prototype for JetBrains MPS, built as an extension on mbeddr.core (C language).
 * [Physics](https://github.com/vaclav/Physics) ⭐ 5 | 🐛 5 | 🌐 JetBrains MPS | 📅 2024-03-22 - A physical simulation description language built with MPS.
 * [D-Flat](https://github.com/DSLFoundry/mps-dflat) ⭐ 4 | 🐛 2 | 🌐 JetBrains MPS | 📅 2026-08-28 - C# language implementation prototype for JetBrains MPS.
 * [PlantUML](https://github.com/vjramirez/PlantUML) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2017-06-22 - Language for PlantUML models, also useful to generate PlantUML diagrams from custom DSL.
@@ -184,4 +184,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

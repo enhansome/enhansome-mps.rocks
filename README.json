@@ -552,7 +552,7 @@
                 "language": "JetBrains MPS",
                 "license": "EPL-1.0",
                 "last_commit": "2026-08-19T10:02:37Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "DSLFoundry",
                 "repo": "mbeddr.cpp",
                 "stars": 5,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:00:19.831Z",
+    "last_updated": "2026-08-30T13:59:46.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MPS extensions/libraries, software and resources.",
