@@ -2,7 +2,7 @@
 
 A curated list of awesome MPS extensions/libraries, software and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 318,161 | 🐛 16 | 🌐 Python | 📅 2026-09-01 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,180 | 🐛 9 | 🌐 Rust | 📅 2026-09-03.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 318,366 | 🐛 17 | 🌐 Python | 📅 2026-09-01 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,203 | 🐛 8 | 🌐 Rust | 📅 2026-09-05.
 
 ## What are you looking for?
 
@@ -44,7 +44,7 @@ Plugins that improve MPS.
 * [MPS gradle plugin](https://github.com/mbeddr/mps-gradle-plugin) ⭐ 16 | 🐛 28 | 🌐 Kotlin | 📅 2026-08-20 - A Gradle plugin to build & test langauges and to support various tasks related to custom RCP packaging.
 * [Editor2PDF](https://github.com/CampagneLaboratory/Editor2PDF) ⭐ 10 | 🐛 2 | 🌐 Java | 📅 2018-05-24 - Serialises editor into PDF files
 * [Durchblick](https://github.com/coolya/Durchblick) ⭐ 9 | 🐛 6 | 🌐 JetBrains MPS | 📅 2024-08-06 - Simplified editors to increase readability of generators.
-* [MPS-QA](https://github.com/mbeddr/mps-qa) ⭐ 9 | 🐛 11 | 🌐 JetBrains MPS | 📅 2026-09-03 - This repository contains quality assurance tooling for Jetbrains' MPS.
+* [MPS-QA](https://github.com/mbeddr/mps-qa) ⭐ 9 | 🐛 11 | 🌐 JetBrains MPS | 📅 2026-09-04 - This repository contains quality assurance tooling for Jetbrains' MPS.
 * [skadi gist](https://github.com/skadi-cloud/gist) ⭐ 6 | 🐛 26 | 🌐 Kotlin | 📅 2026-03-09 - Share MPS code snippets via the browser.
 * [Stubs Generator](https://github.com/wirthma/StubsGenerator) ⭐ 2 | 🐛 0 | 🌐 JetBrains MPS | 📅 2023-04-05 - Stubs Generator is a plugin to Jetbrains MPS which allows easy creation of generators of library stubs for custom MPS languages.
 * [digitalember.extensions](https://github.com/digital-ember/digitalember.extensions) ⭐ 1 | 🐛 0 | 📅 2018-03-31 - MPS baseLanguage editor extensions for better readability.
@@ -68,7 +68,7 @@ Plugins that improve MPS.
 
 Complete IDEs built with MPS.
 
-* [mbeddr](https://github.com/mbeddr/mbeddr.core) ⭐ 233 | 🐛 83 | 🌐 JetBrains MPS | 📅 2026-09-04 - An extensible C implementation in MPS to support embedded software development.
+* [mbeddr](https://github.com/mbeddr/mbeddr.core) ⭐ 233 | 🐛 81 | 🌐 JetBrains MPS | 📅 2026-09-04 - An extensible C implementation in MPS to support embedded software development.
 * [FBME](https://github.com/JetBrains/fbme) ⭐ 23 | 🐛 14 | 🌐 JetBrains MPS | 📅 2026-05-13 - FBME (Function Blocks Modelling Environment) is an IDE for IEC 61499 standard built on top of JetBrains MPS language workbench.
 * [PeoPL](https://github.com/benbehringer/peopl) ⭐ 5 | 🐛 20 | 🌐 Java | 📅 2022-05-20 - A full IDE build upon MPS to manage Software Product Lines.
 * [Dutch Tax Office](https://resources.jetbrains.com/storage/products/mps/docs/MPS_DTO_Case_Study.pdf) - Domain-specific languages to implement Dutch tax legislation and process changes of that legislation.
@@ -79,7 +79,7 @@ Complete IDEs built with MPS.
 
 Individual languages.
 
-* [iets3](https://github.com/iets3/iets3.opensource) ⭐ 53 | 🐛 129 | 🌐 JetBrains MPS | 📅 2026-09-04 - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
+* [iets3](https://github.com/iets3/iets3.opensource) ⭐ 53 | 🐛 129 | 🌐 JetBrains MPS | 📅 2026-09-05 - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
 * [ecmascript4mps](https://github.com/mar9000/ecmascript4mps) ⭐ 41 | 🐛 1 | 📅 2024-07-03 - ECMAScript language implementation for JetBrains MPS.
 * [CsBaseLanguage](https://github.com/vaclav/mpscs) ⭐ 35 | 🐛 0 | 🌐 JetBrains MPS | 📅 2024-11-05 - An implementation of the C# 5.0 language.
 * [Voice Menu](https://github.com/vaclav/voicemenu) ⭐ 35 | 🐛 5 | 🌐 JetBrains MPS | 📅 2026-08-31 - A voice menu language and a Java simulator built using JetBrains MPS.
@@ -184,4 +184,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
