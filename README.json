@@ -270,8 +270,8 @@
                 "id": 3208991,
                 "language": "JetBrains MPS",
                 "license": "EPL-2.0",
-                "last_commit": "2026-09-04T23:17:25Z",
-                "open_issues": 81,
+                "last_commit": "2026-09-05T15:00:35Z",
+                "open_issues": 82,
                 "owner": "mbeddr",
                 "repo": "mbeddr.core",
                 "stars": 233,
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:05:49.835Z",
+    "last_updated": "2026-09-06T12:19:49.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MPS extensions/libraries, software and resources.",
