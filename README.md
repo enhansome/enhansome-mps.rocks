@@ -2,7 +2,7 @@
 
 A curated list of awesome MPS extensions/libraries, software and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 321,646 | 🐛 26 | 🌐 Python | 📅 2026-09-18 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,433 | 🐛 17 | 🌐 Rust | 📅 2026-09-19.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 321,847 | 🐛 21 | 🌐 Python | 📅 2026-09-20 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,448 | 🐛 12 | 🌐 Rust | 📅 2026-09-20.
 
 ## What are you looking for?
 
@@ -68,7 +68,7 @@ Plugins that improve MPS.
 
 Complete IDEs built with MPS.
 
-* [mbeddr](https://github.com/mbeddr/mbeddr.core) ⭐ 232 | 🐛 82 | 🌐 JetBrains MPS | 📅 2026-09-13 - An extensible C implementation in MPS to support embedded software development.
+* [mbeddr](https://github.com/mbeddr/mbeddr.core) ⭐ 232 | 🐛 84 | 🌐 JetBrains MPS | 📅 2026-09-19 - An extensible C implementation in MPS to support embedded software development.
 * [FBME](https://github.com/JetBrains/fbme) ⭐ 23 | 🐛 14 | 🌐 JetBrains MPS | 📅 2026-05-13 - FBME (Function Blocks Modelling Environment) is an IDE for IEC 61499 standard built on top of JetBrains MPS language workbench.
 * [PeoPL](https://github.com/benbehringer/peopl) ⭐ 5 | 🐛 20 | 🌐 Java | 📅 2022-05-20 - A full IDE build upon MPS to manage Software Product Lines.
 * [Dutch Tax Office](https://resources.jetbrains.com/storage/products/mps/docs/MPS_DTO_Case_Study.pdf) - Domain-specific languages to implement Dutch tax legislation and process changes of that legislation.
@@ -184,4 +184,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
