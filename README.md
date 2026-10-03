@@ -2,7 +2,7 @@
 
 A curated list of awesome MPS extensions/libraries, software and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 324,781 | 🐛 21 | 🌐 Python | 📅 2026-10-02 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,657 | 🐛 9 | 🌐 Rust | 📅 2026-10-01.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 324,859 | 🐛 21 | 🌐 Python | 📅 2026-10-02 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,658 | 🐛 9 | 🌐 Rust | 📅 2026-10-03.
 
 ## What are you looking for?
 
@@ -79,7 +79,7 @@ Complete IDEs built with MPS.
 
 Individual languages.
 
-* [iets3](https://github.com/iets3/iets3.opensource) ⭐ 53 | 🐛 130 | 🌐 JetBrains MPS | 📅 2026-10-02 - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
+* [iets3](https://github.com/iets3/iets3.opensource) ⭐ 53 | 🐛 131 | 🌐 JetBrains MPS | 📅 2026-10-03 - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
 * [ecmascript4mps](https://github.com/mar9000/ecmascript4mps) ⭐ 41 | 🐛 1 | 📅 2024-07-03 - ECMAScript language implementation for JetBrains MPS.
 * [CsBaseLanguage](https://github.com/vaclav/mpscs) ⭐ 35 | 🐛 0 | 🌐 JetBrains MPS | 📅 2024-11-05 - An implementation of the C# 5.0 language.
 * [Voice Menu](https://github.com/vaclav/voicemenu) ⭐ 35 | 🐛 5 | 🌐 JetBrains MPS | 📅 2026-08-31 - A voice menu language and a Java simulator built using JetBrains MPS.
