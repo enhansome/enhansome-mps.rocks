@@ -2,7 +2,7 @@
 
 A curated list of awesome MPS extensions/libraries, software and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 325,576 | 🐛 19 | 🌐 Python | 📅 2026-10-02 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,694 | 🐛 10 | 🌐 Rust | 📅 2026-10-06.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 325,820 | 🐛 20 | 🌐 Python | 📅 2026-10-07 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,702 | 🐛 11 | 🌐 Rust | 📅 2026-10-07.
 
 ## What are you looking for?
 
@@ -79,7 +79,7 @@ Complete IDEs built with MPS.
 
 Individual languages.
 
-* [iets3](https://github.com/iets3/iets3.opensource) ⭐ 53 | 🐛 127 | 🌐 JetBrains MPS | 📅 2026-10-06 - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
+* [iets3](https://github.com/iets3/iets3.opensource) ⭐ 53 | 🐛 128 | 🌐 JetBrains MPS | 📅 2026-10-07 - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
 * [ecmascript4mps](https://github.com/mar9000/ecmascript4mps) ⭐ 41 | 🐛 1 | 📅 2024-07-03 - ECMAScript language implementation for JetBrains MPS.
 * [CsBaseLanguage](https://github.com/vaclav/mpscs) ⭐ 35 | 🐛 0 | 🌐 JetBrains MPS | 📅 2024-11-05 - An implementation of the C# 5.0 language.
 * [Voice Menu](https://github.com/vaclav/voicemenu) ⭐ 35 | 🐛 5 | 🌐 JetBrains MPS | 📅 2026-08-31 - A voice menu language and a Java simulator built using JetBrains MPS.
@@ -90,7 +90,7 @@ Individual languages.
 * [FormatsDSL](https://github.com/ftomassetti/FormatsDSL) ⭐ 10 | 🐛 17 | 📅 2023-09-29 - A DSL to describe formats and generate loaders.
 * [mbeddr.cpp](https://github.com/DSLFoundry/mbeddr.cpp) ⭐ 5 | 🐛 20 | 🌐 JetBrains MPS | 📅 2026-08-19 - C++ language implementation prototype for JetBrains MPS, built as an extension on mbeddr.core (C language).
 * [Physics](https://github.com/vaclav/Physics) ⭐ 5 | 🐛 5 | 🌐 JetBrains MPS | 📅 2024-03-22 - A physical simulation description language built with MPS.
-* [D-Flat](https://github.com/DSLFoundry/mps-dflat) ⭐ 4 | 🐛 3 | 🌐 JetBrains MPS | 📅 2026-08-28 - C# language implementation prototype for JetBrains MPS.
+* [D-Flat](https://github.com/DSLFoundry/mps-dflat) ⭐ 4 | 🐛 2 | 🌐 JetBrains MPS | 📅 2026-10-07 - C# language implementation prototype for JetBrains MPS.
 * [PlantUML](https://github.com/vjramirez/PlantUML) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2017-06-22 - Language for PlantUML models, also useful to generate PlantUML diagrams from custom DSL.
 
 ### Other projects
@@ -184,4 +184,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
