@@ -162,7 +162,7 @@
                 "id": 227054532,
                 "language": "JetBrains MPS",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T15:14:04Z",
+                "last_commit": "2026-10-11T14:56:53Z",
                 "open_issues": 10,
                 "owner": "mbeddr",
                 "repo": "mps-qa",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:44:55.068Z",
+    "last_updated": "2026-10-11T15:05:19.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MPS extensions/libraries, software and resources.",

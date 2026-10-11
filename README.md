@@ -2,7 +2,7 @@
 
 A curated list of awesome MPS extensions/libraries, software and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 326,295 | 🐛 23 | 🌐 Python | 📅 2026-10-10 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,756 | 🐛 11 | 🌐 Rust | 📅 2026-10-10.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 326,550 | 🐛 24 | 🌐 Python | 📅 2026-10-11 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,776 | 🐛 10 | 🌐 Rust | 📅 2026-10-10.
 
 ## What are you looking for?
 
@@ -44,7 +44,7 @@ Plugins that improve MPS.
 * [MPS gradle plugin](https://github.com/mbeddr/mps-gradle-plugin) ⭐ 16 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-15 - A Gradle plugin to build & test langauges and to support various tasks related to custom RCP packaging.
 * [Editor2PDF](https://github.com/CampagneLaboratory/Editor2PDF) ⭐ 10 | 🐛 2 | 🌐 Java | 📅 2018-05-24 - Serialises editor into PDF files
 * [Durchblick](https://github.com/coolya/Durchblick) ⭐ 9 | 🐛 6 | 🌐 JetBrains MPS | 📅 2024-08-06 - Simplified editors to increase readability of generators.
-* [MPS-QA](https://github.com/mbeddr/mps-qa) ⭐ 9 | 🐛 10 | 🌐 JetBrains MPS | 📅 2026-09-18 - This repository contains quality assurance tooling for Jetbrains' MPS.
+* [MPS-QA](https://github.com/mbeddr/mps-qa) ⭐ 9 | 🐛 10 | 🌐 JetBrains MPS | 📅 2026-10-11 - This repository contains quality assurance tooling for Jetbrains' MPS.
 * [skadi gist](https://github.com/skadi-cloud/gist) ⭐ 6 | 🐛 26 | 🌐 Kotlin | 📅 2026-03-09 - Share MPS code snippets via the browser.
 * [Stubs Generator](https://github.com/wirthma/StubsGenerator) ⭐ 2 | 🐛 0 | 🌐 JetBrains MPS | 📅 2023-04-05 - Stubs Generator is a plugin to Jetbrains MPS which allows easy creation of generators of library stubs for custom MPS languages.
 * [digitalember.extensions](https://github.com/digital-ember/digitalember.extensions) ⭐ 1 | 🐛 0 | 📅 2018-03-31 - MPS baseLanguage editor extensions for better readability.
@@ -184,4 +184,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
