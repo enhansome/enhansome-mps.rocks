@@ -2,7 +2,7 @@
 
 A curated list of awesome MPS extensions/libraries, software and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 329,168 | 🐛 17 | 🌐 Python | 📅 2026-10-21 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 60,000 | 🐛 9 | 🌐 Rust | 📅 2026-10-21.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 329,399 | 🐛 17 | 🌐 Python | 📅 2026-10-22 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 60,021 | 🐛 9 | 🌐 Rust | 📅 2026-10-21.
 
 ## What are you looking for?
 
@@ -38,13 +38,13 @@ To get stated we suggest to look at the tutorials in the following order:
 
 Plugins that improve MPS.
 
-* [MPS Extensions](https://github.com/JetBrains/MPS-extensions) ⭐ 88 | 🐛 133 | 🌐 JetBrains MPS | 📅 2026-10-21 - Various extensions to simplify language development.
+* [MPS Extensions](https://github.com/JetBrains/MPS-extensions) ⭐ 88 | 🐛 133 | 🌐 JetBrains MPS | 📅 2026-10-22 - Various extensions to simplify language development.
 * [ingrid](https://github.com/premun/ingrid) ⭐ 24 | 🐛 2 | 🌐 Java | 📅 2019-08-15 - Ingrid is a plugin for JetBrains MPS allowing import of ANTLRv4 grammars and create an MPS language out of it.
 * [mps-code-reviewer](https://github.com/Workday/mps-code-reviewer) ⭐ 16 | 🐛 7 | 📅 2023-04-08 - Code Review for JetBrains MPS providing integration with Bitbucket
-* [MPS gradle plugin](https://github.com/mbeddr/mps-gradle-plugin) ⭐ 16 | 🐛 29 | 🌐 Kotlin | 📅 2026-10-21 - A Gradle plugin to build & test langauges and to support various tasks related to custom RCP packaging.
+* [MPS gradle plugin](https://github.com/mbeddr/mps-gradle-plugin) ⭐ 16 | 🐛 27 | 🌐 Kotlin | 📅 2026-10-22 - A Gradle plugin to build & test langauges and to support various tasks related to custom RCP packaging.
 * [Editor2PDF](https://github.com/CampagneLaboratory/Editor2PDF) ⭐ 10 | 🐛 2 | 🌐 Java | 📅 2018-05-24 - Serialises editor into PDF files
 * [Durchblick](https://github.com/coolya/Durchblick) ⭐ 9 | 🐛 6 | 🌐 JetBrains MPS | 📅 2024-08-06 - Simplified editors to increase readability of generators.
-* [MPS-QA](https://github.com/mbeddr/mps-qa) ⭐ 9 | 🐛 10 | 🌐 JetBrains MPS | 📅 2026-10-14 - This repository contains quality assurance tooling for Jetbrains' MPS.
+* [MPS-QA](https://github.com/mbeddr/mps-qa) ⭐ 9 | 🐛 11 | 🌐 JetBrains MPS | 📅 2026-10-22 - This repository contains quality assurance tooling for Jetbrains' MPS.
 * [skadi gist](https://github.com/skadi-cloud/gist) ⭐ 6 | 🐛 26 | 🌐 Kotlin | 📅 2026-03-09 - Share MPS code snippets via the browser.
 * [Stubs Generator](https://github.com/wirthma/StubsGenerator) ⭐ 2 | 🐛 0 | 🌐 JetBrains MPS | 📅 2023-04-05 - Stubs Generator is a plugin to Jetbrains MPS which allows easy creation of generators of library stubs for custom MPS languages.
 * [digitalember.extensions](https://github.com/digital-ember/digitalember.extensions) ⭐ 1 | 🐛 0 | 📅 2018-03-31 - MPS baseLanguage editor extensions for better readability.
@@ -79,7 +79,7 @@ Complete IDEs built with MPS.
 
 Individual languages.
 
-* [iets3](https://github.com/iets3/iets3.opensource) ⭐ 53 | 🐛 123 | 🌐 JetBrains MPS | 📅 2026-10-21 - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
+* [iets3](https://github.com/iets3/iets3.opensource) ⭐ 53 | 🐛 121 | 🌐 JetBrains MPS | 📅 2026-10-22 - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
 * [ecmascript4mps](https://github.com/mar9000/ecmascript4mps) ⭐ 41 | 🐛 1 | 📅 2024-07-03 - ECMAScript language implementation for JetBrains MPS.
 * [CsBaseLanguage](https://github.com/vaclav/mpscs) ⭐ 35 | 🐛 0 | 🌐 JetBrains MPS | 📅 2024-11-05 - An implementation of the C# 5.0 language.
 * [Voice Menu](https://github.com/vaclav/voicemenu) ⭐ 35 | 🐛 5 | 🌐 JetBrains MPS | 📅 2026-08-31 - A voice menu language and a Java simulator built using JetBrains MPS.
@@ -97,7 +97,7 @@ Individual languages.
 
 * [MPSServer](https://github.com/strumenta/mpsserver) ⭐ 21 | 🐛 22 | 🌐 Python | 📅 2023-12-07 - A tool to make MPS accessible remotely.
 * [WebEditKit](https://github.com/strumenta/webeditkit) ⭐ 15 | 🐛 36 | 🌐 TypeScript | 📅 2023-09-29 - This is a framework for creating projectional editors which interact with JetBrains MPS.
-* [mpsZooKeeper.sh](https://github.com/nkoester/mps-zookeeper) ⭐ 8 | 🐛 1 | 🌐 Shell | 📅 2026-10-09 - Helper script to generate an isolated configuration prefix for isolated MPS instances.
+* [mpsZooKeeper.sh](https://github.com/nkoester/mps-zookeeper) ⭐ 8 | 🐛 1 | 🌐 Shell | 📅 2026-10-21 - Helper script to generate an isolated configuration prefix for isolated MPS instances.
 * [Modelix](https://modelix.github.io/) - Modelix is a open source platform that aims to bring modeling on the web.
 * [MPS CodeRules](https://jetbrains.github.io/mps-coderules/about) - New typesystem from JetBrains for MPS. Uses logic programming.
 * [MPS Platform Docs](http://mbeddr.com/mps-platform-docs/) - This website collects practical knowledge about MPS and popular MPS platforms.
@@ -184,4 +184,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
