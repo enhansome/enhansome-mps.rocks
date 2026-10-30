@@ -2,7 +2,7 @@
 
 A curated list of awesome MPS extensions/libraries, software and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 331,095 | 🐛 21 | 🌐 Python | 📅 2026-10-29 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 60,184 | 🐛 8 | 🌐 Rust | 📅 2026-10-29.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 331,326 | 🐛 22 | 🌐 Python | 📅 2026-10-29 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 60,208 | 🐛 8 | 🌐 Rust | 📅 2026-10-30.
 
 ## What are you looking for?
 
@@ -41,7 +41,7 @@ Plugins that improve MPS.
 * [MPS Extensions](https://github.com/JetBrains/MPS-extensions) ⭐ 89 | 🐛 110 | 🌐 JetBrains MPS | 📅 2026-10-28 - Various extensions to simplify language development.
 * [ingrid](https://github.com/premun/ingrid) ⭐ 24 | 🐛 2 | 🌐 Java | 📅 2019-08-15 - Ingrid is a plugin for JetBrains MPS allowing import of ANTLRv4 grammars and create an MPS language out of it.
 * [mps-code-reviewer](https://github.com/Workday/mps-code-reviewer) ⭐ 16 | 🐛 7 | 📅 2023-04-08 - Code Review for JetBrains MPS providing integration with Bitbucket
-* [MPS gradle plugin](https://github.com/mbeddr/mps-gradle-plugin) ⭐ 16 | 🐛 27 | 🌐 Kotlin | 📅 2026-10-23 - A Gradle plugin to build & test langauges and to support various tasks related to custom RCP packaging.
+* [MPS gradle plugin](https://github.com/mbeddr/mps-gradle-plugin) ⭐ 16 | 🐛 27 | 🌐 Kotlin | 📅 2026-10-30 - A Gradle plugin to build & test langauges and to support various tasks related to custom RCP packaging.
 * [Editor2PDF](https://github.com/CampagneLaboratory/Editor2PDF) ⭐ 10 | 🐛 2 | 🌐 Java | 📅 2018-05-24 - Serialises editor into PDF files
 * [Durchblick](https://github.com/coolya/Durchblick) ⭐ 9 | 🐛 6 | 🌐 JetBrains MPS | 📅 2024-08-06 - Simplified editors to increase readability of generators.
 * [MPS-QA](https://github.com/mbeddr/mps-qa) ⭐ 9 | 🐛 11 | 🌐 JetBrains MPS | 📅 2026-10-29 - This repository contains quality assurance tooling for Jetbrains' MPS.
@@ -68,7 +68,7 @@ Plugins that improve MPS.
 
 Complete IDEs built with MPS.
 
-* [mbeddr](https://github.com/mbeddr/mbeddr.core) ⭐ 231 | 🐛 90 | 🌐 JetBrains MPS | 📅 2026-10-26 - An extensible C implementation in MPS to support embedded software development.
+* [mbeddr](https://github.com/mbeddr/mbeddr.core) ⭐ 231 | 🐛 90 | 🌐 JetBrains MPS | 📅 2026-10-30 - An extensible C implementation in MPS to support embedded software development.
 * [FBME](https://github.com/JetBrains/fbme) ⭐ 23 | 🐛 14 | 🌐 JetBrains MPS | 📅 2026-05-13 - FBME (Function Blocks Modelling Environment) is an IDE for IEC 61499 standard built on top of JetBrains MPS language workbench.
 * [PeoPL](https://github.com/benbehringer/peopl) ⭐ 5 | 🐛 20 | 🌐 Java | 📅 2022-05-20 - A full IDE build upon MPS to manage Software Product Lines.
 * [Dutch Tax Office](https://resources.jetbrains.com/storage/products/mps/docs/MPS_DTO_Case_Study.pdf) - Domain-specific languages to implement Dutch tax legislation and process changes of that legislation.
@@ -184,4 +184,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

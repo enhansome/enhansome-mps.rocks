@@ -86,7 +86,7 @@
                 "id": 84947979,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T14:17:29Z",
+                "last_commit": "2026-10-30T08:12:10Z",
                 "open_issues": 27,
                 "owner": "mbeddr",
                 "repo": "mps-gradle-plugin",
@@ -270,7 +270,7 @@
                 "id": 3208991,
                 "language": "JetBrains MPS",
                 "license": "EPL-2.0",
-                "last_commit": "2026-10-26T09:37:18Z",
+                "last_commit": "2026-10-30T04:41:46Z",
                 "open_issues": 90,
                 "owner": "mbeddr",
                 "repo": "mbeddr.core",
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T15:33:22.720Z",
+    "last_updated": "2026-10-30T15:20:43.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MPS extensions/libraries, software and resources.",
