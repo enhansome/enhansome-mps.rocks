@@ -17,7 +17,7 @@
                 "id": 109820403,
                 "language": "JetBrains MPS",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T15:41:06Z",
+                "last_commit": "2026-11-18T16:41:19Z",
                 "open_issues": 113,
                 "owner": "JetBrains",
                 "repo": "MPS-extensions",
@@ -270,8 +270,8 @@
                 "id": 3208991,
                 "language": "JetBrains MPS",
                 "license": "EPL-2.0",
-                "last_commit": "2026-11-17T17:32:22Z",
-                "open_issues": 84,
+                "last_commit": "2026-11-18T17:20:36Z",
+                "open_issues": 83,
                 "owner": "mbeddr",
                 "repo": "mbeddr.core",
                 "stars": 232,
@@ -349,11 +349,11 @@
                 "id": 68794659,
                 "language": "JetBrains MPS",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T17:19:41Z",
-                "open_issues": 128,
+                "last_commit": "2026-11-18T16:37:36Z",
+                "open_issues": 133,
                 "owner": "IETS3",
                 "repo": "iets3.opensource",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "jetbrains-mps"
                 ]
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T17:53:53.025Z",
+    "last_updated": "2026-11-18T17:34:01.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MPS extensions/libraries, software and resources.",
