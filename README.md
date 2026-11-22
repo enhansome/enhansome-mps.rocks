@@ -2,7 +2,7 @@
 
 A curated list of awesome MPS extensions/libraries, software and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 336,199 | 🐛 22 | 🌐 Python | 📅 2026-11-17 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 60,706 | 🐛 12 | 🌐 Rust | 📅 2026-11-21.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python/) ⭐ 336,426 | 🐛 22 | 🌐 Python | 📅 2026-11-17 and [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 60,727 | 🐛 15 | 🌐 Rust | 📅 2026-11-22.
 
 ## What are you looking for?
 
@@ -185,4 +185,4 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
