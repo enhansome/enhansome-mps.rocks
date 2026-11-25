@@ -17,7 +17,7 @@
                 "id": 109820403,
                 "language": "JetBrains MPS",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T19:08:48Z",
+                "last_commit": "2026-11-25T18:49:42Z",
                 "open_issues": 189,
                 "owner": "JetBrains",
                 "repo": "MPS-extensions",
@@ -270,8 +270,8 @@
                 "id": 3208991,
                 "language": "JetBrains MPS",
                 "license": "EPL-2.0",
-                "last_commit": "2026-11-24T17:47:27Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-25T05:58:23Z",
+                "open_issues": 9,
                 "owner": "mbeddr",
                 "repo": "mbeddr.core",
                 "stars": 232,
@@ -349,8 +349,8 @@
                 "id": 68794659,
                 "language": "JetBrains MPS",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T10:53:41Z",
-                "open_issues": 127,
+                "last_commit": "2026-11-25T17:30:02Z",
+                "open_issues": 128,
                 "owner": "IETS3",
                 "repo": "iets3.opensource",
                 "stars": 55,
@@ -541,30 +541,6 @@
             },
             {
               "node_type": "item",
-              "title": "mbeddr.cpp",
-              "description": "C++ language implementation prototype for JetBrains MPS, built as an extension on mbeddr.core (C language).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "C++ extension to mbeddr in MPS",
-                "homepage": null,
-                "id": 228832907,
-                "language": "JetBrains MPS",
-                "license": "EPL-1.0",
-                "last_commit": "2026-10-20T13:44:48Z",
-                "open_issues": 15,
-                "owner": "DSLFoundry",
-                "repo": "mbeddr.cpp",
-                "stars": 5,
-                "topics": [
-                  "cpp",
-                  "jetbrains-mps"
-                ]
-              },
-              "first_seen": "2026-08-28T20:25:06.756Z"
-            },
-            {
-              "node_type": "item",
               "title": "Physics",
               "description": "A physical simulation description language built with MPS.",
               "children": [],
@@ -603,6 +579,30 @@
                 "stars": 4,
                 "topics": [
                   "csharp",
+                  "jetbrains-mps"
+                ]
+              },
+              "first_seen": "2026-08-28T20:25:06.756Z"
+            },
+            {
+              "node_type": "item",
+              "title": "mbeddr.cpp",
+              "description": "C++ language implementation prototype for JetBrains MPS, built as an extension on mbeddr.core (C language).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "C++ extension to mbeddr in MPS",
+                "homepage": null,
+                "id": 228832907,
+                "language": "JetBrains MPS",
+                "license": "EPL-1.0",
+                "last_commit": "2026-10-20T13:44:48Z",
+                "open_issues": 15,
+                "owner": "DSLFoundry",
+                "repo": "mbeddr.cpp",
+                "stars": 4,
+                "topics": [
+                  "cpp",
                   "jetbrains-mps"
                 ]
               },
@@ -713,7 +713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:42:27.218Z",
+    "last_updated": "2026-11-25T18:50:38.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome MPS extensions/libraries, software and resources.",
